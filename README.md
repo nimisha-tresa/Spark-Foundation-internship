@@ -22,4 +22,12 @@ Stock Market Prediction using Numerical and Textual Analysis
 Task 5
 
 To Explore Business Analytics on Sample of Super Store.
+
 Tableau Link: https://lnkd.in/g9RdJfn
+
+Task 6
+Timeline Analysis : Covid-19
+
+Tableau Link: https://lnkd.in/g9RdJfn
+
+Dataset: https://bit.ly/30d2gdi
