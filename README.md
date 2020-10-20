@@ -14,3 +14,6 @@ Task 3
  
  Prediction using Decision Tree Algorithm
 (Level - Intermediate)
+
+Task 4
+Stock Market Prediction using Numerical and Textual Analysis 
